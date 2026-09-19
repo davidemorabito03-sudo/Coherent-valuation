@@ -1,11 +1,11 @@
-# Coherent Corp. (NYSE: COHR) – Equity Valuation
+# Coherent Corp. (NYSE: COHR) – Valutazione Azionaria
 
-Personal learning project (Aug–Sep 2026): an Excel valuation model of Coherent Corp. and a research note based on it.
+Progetto formativo personale (ago–set 2026): un modello di valutazione in Excel di Coherent Corp. e una nota di ricerca basata su di esso.
 
-**Contents**
-- [Research note (PDF)](Coherent%20research.pdf)
-- [Valuation model (Excel)](Coherent%20model.xlsx) – operating model, WACC estimate, base/bull/bear scenarios, DCF, comparable companies analysis
+**Contenuti**
+- [Nota di ricerca (PDF)](Coherent%20research.pdf)
+- [Modello di valutazione (Excel)](Coherent%20model.xlsx) – modello operativo, stima del WACC, scenari base/bull/bear, DCF, analisi dei comparables
 
-**Data:** company filings (10-K) and market data as of 7 september 2026.
+**Dati:** documenti societari (10-K) e dati di mercato aggiornati al 7 settembre 2026.
 
-*Personal learning project. It does not constitute investment advice or a recommendation to buy or sell any security.*
+*Progetto formativo personale. Non costituisce consulenza finanziaria né una raccomandazione ad acquistare o vendere alcun titolo.*
